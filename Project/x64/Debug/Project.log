@@ -1,0 +1,12 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  rlImGui.cpp
+C:\dev\Project\main.cpp(21,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\Project\main.cpp(21,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Project.vcxproj -> C:\dev\Project\x64\Debug\Project.exe
