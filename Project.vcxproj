@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Application.h" />
     <ClInclude Include="dependencies\include\extras\FA6FreeSolidFontData.h" />
     <ClInclude Include="dependencies\include\extras\IconsFontAwesome6.h" />
     <ClInclude Include="dependencies\include\imconfig.h" />
@@ -139,8 +140,10 @@
     <ClInclude Include="dependencies\include\imstb_truetype.h" />
     <ClInclude Include="dependencies\include\rlImGui.h" />
     <ClInclude Include="dependencies\include\rlImGuiColors.h" />
+    <ClInclude Include="uni.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Application.cpp" />
     <ClCompile Include="imgui.cpp" />
     <ClCompile Include="imgui_demo.cpp" />
     <ClCompile Include="imgui_draw.cpp" />
@@ -148,9 +151,14 @@
     <ClCompile Include="imgui_widgets.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="rlImGui.cpp" />
+    <ClCompile Include="uni.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="imgui.ini" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\icon.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
