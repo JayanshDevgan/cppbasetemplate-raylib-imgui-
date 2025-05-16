@@ -36,15 +36,6 @@ void UNI_UI::ToolBarMenu()
 
         if (ImGui::BeginMenu("Windows"))
         {
-            if (ImGui::MenuItem("Content Browser"))
-            {
-                // Open content browser
-            }
-            if (ImGui::MenuItem("Assets Browser"))
-            {
-                // Open assets browser
-            }
-
             ImGui::EndMenu();
         }
     }

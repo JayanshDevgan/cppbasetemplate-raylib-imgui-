@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\UNI-ENGINE2D\\",
+  "WorkspaceRootPath": "C:\\dev\\cppbasetemplate-raylib-imgui-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\UNI-ENGINE2D\\uni.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\cppbasetemplate-raylib-imgui-\\uni.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|solutionrelative:uni.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\UNI-ENGINE2D\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\cppbasetemplate-raylib-imgui-\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|solutionrelative:Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\cppbasetemplate-raylib-imgui-\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|solutionrelative:Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\UNI-ENGINE2D\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\cppbasetemplate-raylib-imgui-\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\UNI-ENGINE2D\\uni.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\cppbasetemplate-raylib-imgui-\\uni.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|solutionrelative:uni.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|C:\\dev\\UNI-ENGINE2D\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1B91ED92-94A6-4520-A8FC-CF43B53CEF6B}|Project.vcxproj|solutionrelative:Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,22 +36,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "uni.cpp",
-              "DocumentMoniker": "C:\\dev\\UNI-ENGINE2D\\uni.cpp",
+              "DocumentMoniker": "C:\\dev\\cppbasetemplate-raylib-imgui-\\uni.cpp",
               "RelativeDocumentMoniker": "uni.cpp",
-              "ToolTip": "C:\\dev\\UNI-ENGINE2D\\uni.cpp",
+              "ToolTip": "C:\\dev\\cppbasetemplate-raylib-imgui-\\uni.cpp",
               "RelativeToolTip": "uni.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-02T18:57:00.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Application.h",
-              "DocumentMoniker": "C:\\dev\\UNI-ENGINE2D\\Application.h",
+              "DocumentMoniker": "C:\\dev\\cppbasetemplate-raylib-imgui-\\Application.h",
               "RelativeDocumentMoniker": "Application.h",
-              "ToolTip": "C:\\dev\\UNI-ENGINE2D\\Application.h",
+              "ToolTip": "C:\\dev\\cppbasetemplate-raylib-imgui-\\Application.h",
               "RelativeToolTip": "Application.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -60,24 +60,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Application.cpp",
-              "DocumentMoniker": "C:\\dev\\UNI-ENGINE2D\\Application.cpp",
+              "DocumentMoniker": "C:\\dev\\cppbasetemplate-raylib-imgui-\\Application.cpp",
               "RelativeDocumentMoniker": "Application.cpp",
-              "ToolTip": "C:\\dev\\UNI-ENGINE2D\\Application.cpp",
+              "ToolTip": "C:\\dev\\cppbasetemplate-raylib-imgui-\\Application.cpp",
               "RelativeToolTip": "Application.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-02T18:31:10.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "uni.h",
-              "DocumentMoniker": "C:\\dev\\UNI-ENGINE2D\\uni.h",
+              "DocumentMoniker": "C:\\dev\\cppbasetemplate-raylib-imgui-\\uni.h",
               "RelativeDocumentMoniker": "uni.h",
-              "ToolTip": "C:\\dev\\UNI-ENGINE2D\\uni.h",
+              "ToolTip": "C:\\dev\\cppbasetemplate-raylib-imgui-\\uni.h",
               "RelativeToolTip": "uni.h",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -86,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\dev\\UNI-ENGINE2D\\main.cpp",
+              "DocumentMoniker": "C:\\dev\\cppbasetemplate-raylib-imgui-\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\dev\\UNI-ENGINE2D\\main.cpp",
+              "ToolTip": "C:\\dev\\cppbasetemplate-raylib-imgui-\\main.cpp",
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

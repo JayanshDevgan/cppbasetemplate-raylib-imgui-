@@ -12,12 +12,8 @@ void Application::Run()
 	const int width = 900;
 	const int height = 800;
 
-	InitWindow(width, height, "UNI-ENGINE");
+	InitWindow(width, height, "PROJECT-NAME");
 	SetWindowState(FLAG_WINDOW_RESIZABLE);
-
-	Image icon = LoadImage("./assets/icon.png");
-	SetWindowIcon(icon);
-	UnloadImage(icon);
 
 	rlImGuiSetup(true);
 

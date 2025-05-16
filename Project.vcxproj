@@ -157,9 +157,6 @@
     <None Include="imgui.ini" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="assets\icon.png" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
     <Import Project="packages\raylib.5.0.0\build\native\raylib.targets" Condition="Exists('packages\raylib.5.0.0\build\native\raylib.targets')" />

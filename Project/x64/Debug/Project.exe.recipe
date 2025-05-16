@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\dev\UNI-ENGINE2D\x64\Debug\Project.exe</FullPath>
+      <FullPath>C:\dev\cppbasetemplate-raylib-imgui-\x64\Debug\Project.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
